@@ -71,7 +71,7 @@ header ul li a{
 
 .banner{
     height: 100vh;
-    background-image: url(imagens/banner.jpg);
+    background-image: url(imagens/Albert-Einstein2.avif);
     background-position: 100% 0;
     background-repeat: repeat;
     background-size: cover;
@@ -86,5 +86,5 @@ header ul li a{
 }
 
 .banner h1 span{
-    color: #FFAE81;
+    color: blue;
 }
